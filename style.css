@@ -183,8 +183,6 @@ video {
 .card {
   height: 80%;
   width: 24%;
-  transform: rotate3d(-1, 1, 0, 20deg);
-  
   background-position: center;
   background-size: cover;
   /* background-color: blue; */
@@ -227,9 +225,6 @@ video {
 .card:hover .overlay {
   opacity: 1;
 
-}
-.card:hover{
-  transform: rotate3d(-1, 1, 0, 20deg);
 }
 #green-div {
   height: 30vh;

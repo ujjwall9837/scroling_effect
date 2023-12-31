@@ -71,17 +71,7 @@ gsap.from(".card", {
     scrub: 1,
   },
 });
-// gsap.from("#colon2", {
-//   y: -70,
-//   x: -70,
-//   scrollTrigger: {
-//     trigger: "#colon2",
-//     scroller: "body",
-//     start: "top 55%",
-//     end: "top 47%",
-//     scrub: 4,
-//   },
-// });
+
 gsap.from("#colon1", {
   y: -70,
   x: -70,
